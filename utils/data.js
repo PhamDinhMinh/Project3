@@ -1,0 +1,130 @@
+const products = [
+  {
+    name: "Product1",
+    category: "Pizza",
+    price: 2,
+    image: "../images/food/Pizza/1.png",
+  },
+  {
+    name: "Product2",
+    category: "Burgers",
+    price: 2,
+    image: "../images/food/Burgers/1.png",
+  },
+  {
+    name: "Product3",
+    category: "Drink",
+    price: 2,
+    image: "../images/water/1.png",
+  },
+  {
+    name: "Product4",
+    category: "Pizza",
+    price: 2,
+    image: "../images/food/Pizza/2.png",
+  },
+  {
+    name: "Product5",
+    category: "Burgers",
+    price: 2,
+    image: "../images/food/Burgers/2.png",
+  },
+  {
+    name: "Product6",
+    category: "Drink",
+    price: 2,
+    image: "../images/water/2.png",
+  },
+  {
+    name: "Product7",
+    category: "Pizza",
+    price: 2,
+    image: "../images/food/Pizza/3.png",
+  },
+  {
+    name: "Product8",
+    category: "Burgers",
+    price: 2,
+    image: "../images/food/Burgers/3.png",
+  },
+  {
+    name: "Product9",
+    category: "Drink",
+    price: 2,
+    image: "../images/water/3.png",
+  },
+  {
+    name: "Product10",
+    category: "Pizza",
+    price: 2,
+    image: "../images/food/Pizza/4.png",
+  },
+  {
+    name: "Product11",
+    category: "Burgers",
+    price: 2,
+    image: "../images/food/Burgers/4.png",
+  },
+  {
+    name: "Product12",
+    category: "Drink",
+    price: 2,
+    image: "../images/water/4.png",
+  },
+  {
+    name: "Product13",
+    category: "Pizza",
+    price: 2,
+    image: "../images/food/Pizza/5.png",
+  },
+  {
+    name: "Product14",
+    category: "Burgers",
+    price: 2,
+    image: "../images/food/Burgers/5.png",
+  },
+  {
+    name: "Product15",
+    category: "Drink",
+    price: 2,
+    image: "../images/water/5.png",
+  },
+  {
+    name: "Product16",
+    category: "Pizza",
+    price: 2,
+    image: "../images/food/Pizza/6.png",
+  },
+  {
+    name: "Product17",
+    category: "Burgers",
+    price: 2,
+    image: "../images/food/Burgers/6.png",
+  },
+  {
+    name: "Product18",
+    category: "Drink",
+    price: 2,
+    image: "../images/water/6.png",
+  },
+  {
+    name: "Product19",
+    category: "Pizza",
+    price: 3,
+    image: "../images/food/Pizza/7.png",
+  },
+  {
+    name: "Product20",
+    category: "Burgers",
+    price: 2.5,
+    image: "../images/food/Burgers/7.png",
+  },
+  {
+    name: "Product21",
+    category: "Drink",
+    price: 2,
+    image: "../images/water/7.png",
+  },
+];
+
+module.exports = products;
